@@ -1,5 +1,9 @@
 #include<iostream>
 #include<mpi.h>
+<<<<<<< HEAD
+=======
+#include<vector>
+>>>>>>> 82f56282393c336fb48084a966a4addbbdad2a5d
 using namespace std;
 int main(int argc,char *argv[])
 {
